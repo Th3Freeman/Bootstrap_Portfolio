@@ -4,4 +4,22 @@ body {
     }
 .navbar-brand {
     font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.main-body {
+    margin: 0 auto;
+}
+
+.body-text {
+    background-color: white;
+    border: black;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.aboutme {
+    padding-top: 2vh;;
 }
