@@ -88,3 +88,7 @@ button {
     text-align: right;
 }
 
+.thumbnail {
+    width: 20vh;
+    height: 20vh;
+}
